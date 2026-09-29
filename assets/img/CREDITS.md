@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Veronika Latysheva
+- rooms/endo.jpg — https://kaboompics.com/
+- rooms/micro.jpg — . MM Dental .
+- rooms/resto.jpg — https://kaboompics.com/
+- rooms/crown.jpg — https://kaboompics.com/
+- rooms/hygiene.jpg — Tima Miroshnichenko
+- rooms/xray.jpg — cottonbro studio
+- infra/interior.jpg — Tima Miroshnichenko
+- infra/detail.jpg — VGIO Studios
+- infra/work.jpg — Anna Shvets
